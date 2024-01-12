@@ -1,12 +1,12 @@
-### Hi there 👋
-{
-  "name": "SeungWoo Han",
+### Hi there 👋 
+{ 
+  "name": "SeungWoo Han", 
   "dev": {  
-    "familiar": [
-      "JavaScript", "TypeScript", "Python",
-      "React", "Next.js"
-    ],
-    "learning": ["Front-End"]
-  }
-}
-
+    "familiar": [ 
+      "JavaScript", "TypeScript", "Python",  
+      "React", "Next.js" 
+    ], 
+    "learning": ["Front-End"] 
+  } 
+} 
+ 
