@@ -1,7 +1,7 @@
 ### Hi there 👋
 {
   "name": "SeungWoo Han",
-  "dev": {
+  "dev": {  
     "familiar": [
       "JavaScript", "TypeScript", "Python",
       "React", "Next.js"
