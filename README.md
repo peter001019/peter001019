@@ -7,7 +7,7 @@
       "JavaScript", "TypeScript", "Python",  
       "React", "Next.js" 
     ], 
-    "learning": ["Front-End"] 
+    "learning": ["Back-End"] 
   } 
 } 
 ```
