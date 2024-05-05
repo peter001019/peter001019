@@ -4,8 +4,8 @@
   "name": "SeungWoo Han", 
   "dev": {  
     "familiar": [ 
-      "JavaScript", "TypeScript", "Python",  
-      "React", "Next.js" 
+      "Python", "Java",  
+      "React", "Spring Boot" 
     ], 
     "learning": ["Back-End"] 
   } 
