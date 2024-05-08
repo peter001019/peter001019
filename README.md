@@ -4,7 +4,7 @@
   "name": "SeungWoo Han", 
   "dev": {  
     "familiar": [ 
-      "Python", "Java",  
+      "C++", "MySQL", "Java",  
       "React", "Spring Boot" 
     ], 
     "learning": ["Back-End"] 
