@@ -4,10 +4,10 @@
   "name": "SeungWoo Han", 
   "dev": {  
     "familiar": [ 
-      "C++", "MySQL", "Java",  
+      "C++", "MySQL", "Java", "Linux" 
       "React", "Spring Boot" 
     ], 
-    "learning": ["Back-End"] 
+    "learning": ["Docker"] 
   } 
 } 
 ```
