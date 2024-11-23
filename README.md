@@ -4,10 +4,9 @@
   "name": "SeungWoo Han", 
   "dev": {  
     "familiar": [ 
-      "C++", "MySQL", "Java", "Linux" 
-      "React", "Spring Boot" 
+      "Linux", "Docker"
     ], 
-    "learning": ["Docker"] 
+    "learning": ["Infra"] 
   } 
 } 
 ```
