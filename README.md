@@ -4,7 +4,7 @@
   "name": "SeungWoo Han", 
   "dev": {  
     "familiar": [ 
-      "Linux", "Docker"
+      "Linux", "Docker", "Kubernetes", "Spring"
     ], 
     "learning": ["Infra"] 
   } 
