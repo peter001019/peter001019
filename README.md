@@ -4,9 +4,9 @@
   "name": "SeungWoo Han", 
   "dev": {  
     "familiar": [ 
-      "Linux", "Docker", "Kubernetes", "Spring"
+      "Linux", "Spring Boot", "Java", "Docker"
     ], 
-    "learning": ["Infra"] 
+    "learning": ["Backend", "Clean Code", "Testing"]
   } 
 } 
 ```
