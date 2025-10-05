@@ -6,7 +6,7 @@
     "familiar": [ 
       "Linux", "Spring Boot", "Java", "Docker"
     ], 
-    "learning": ["Backend", "Clean Code", "Testing"]
+    "learning": ["Backend", "Clean Code", "Query Tuning"]
   } 
 } 
 ```
